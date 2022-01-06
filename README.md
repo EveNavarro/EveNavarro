@@ -12,14 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Eve </h1>
+<h1 align="center">Hello world 👋, I'm Eve </h1>
 <h3 align="center">✨A passionate frontend developer from Argentina, Buenos Aires.✨</h3>
 
-- 🔭 I’m recently worked on [Titan Games](https://github.com/lucianofirbo/Grupo_3_TitanGames)
+- 🔭 I’m recently worked on [TITAN GAMES](https://github.com/lucianofirbo/Grupo_3_TitanGames)
 
-- 📫 How to reach me **evenavarro.dn@gmail.com**
+- 📫 **evenavarro.dn@gmail.com**
 
-![giphy (1)](https://user-images.githubusercontent.com/85419886/147108833-126a9d1f-eda7-4b3f-aff4-f95f90bb1309.gif)
+<p align="center">
+  <img width="250" src="https://user-images.githubusercontent.com/85419886/147108833-126a9d1f-eda7-4b3f-aff4-f95f90bb1309.gif">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
