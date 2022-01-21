@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hello world 👋, I'm Eve </h1>
-<h3 align="center">✨A passionate frontend developer from Argentina, Buenos Aires.✨</h3>
+<h3 align="center">✨An passionate frontend developer from Argentina, Buenos Aires.✨</h3>
 
 - 🔭 I’m recently worked on [TITAN GAMES](https://github.com/lucianofirbo/Grupo_3_TitanGames)
 
